@@ -24,7 +24,7 @@ This project implements a motion-based game control system that identifies human
 - [cite_start]**Experimental Results:** The system achieved **100% accuracy** in detecting Sitting, Walking, Jumping, and Turning motions[cite: 3500].
 - [cite_start]**Challenge Solved:** Reduced false jump detections during continuous running by analyzing "Free-Fall" moments (acceleration magnitude near zero) for 6 consecutive cycles[cite: 3462, 3463].
 
-[Running-Jumping Error](Terminal photo](terminal.png)
+[Running-Jumping Error from Terminal](terminal.png)
 [Accuracy Test](accuracy_test.png)
 
 ## Tech Stack
