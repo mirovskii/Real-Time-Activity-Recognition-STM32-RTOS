@@ -25,6 +25,7 @@ This project implements a motion-based game control system that identifies human
 - [cite_start]**Challenge Solved:** Reduced false jump detections during continuous running by analyzing "Free-Fall" moments (acceleration magnitude near zero) for 6 consecutive cycles[cite: 3462, 3463].
 
 [Running-Jumping Error from Terminal](terminal.png)
+
 [Accuracy Test](accuracy_test.png)
 
 ## Tech Stack
